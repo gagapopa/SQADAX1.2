@@ -1,0 +1,69 @@
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\bin\Debug\SCADAX.exe
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\bin\Debug\SCADAX.pdb
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\SCADAX.exe
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\SCADAX.pdb
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\obj\x86\Debug\SCADAX.mainForm.resources
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\bin\Debug\ClosedXML.dll
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\bin\Debug\DocumentFormat.OpenXml.dll
+c:\documents and settings\artemevee\мои документы\visual studio 2010\Projects\SCADAX\SCADAX\bin\Debug\ClosedXML.xml
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.mainForm.resources
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\bin\Debug\SCADAX.exe
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SCADAX\SCADAX\bin\Debug\SCADAX.pdb
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.mainForm.resources
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\bin\Debug\SCADAX.exe
+C:\Users\Господин\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\bin\Debug\SCADAX.pdb
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.mainForm.resources
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\bin\Debug\SCADAX.exe
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\bin\Debug\SCADAX.pdb
+C:\Users\artemiev.TECONPC\Documents\Visual Studio 2013\Projects\SQADAX1.1\SCADAX\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.exe
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.pdb
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.MainForm.resources
+D:\googledisk\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\bin\Debug\SCADAX.exe
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\bin\Debug\SCADAX.pdb
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.MainForm.resources
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.2\SQADAX1.2\SCADAX\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.exe
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.pdb
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\bin\Debug\SCADAX.exe
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\bin\Debug\SCADAX.pdb
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.MainForm.resources
+C:\Users\malyhov\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.exe
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.pdb
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csprojResolveAssemblyReference.cache
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.Properties.Resources.resources
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.MainForm.resources
+D:\Google Диск\Рабочая\SQUAD\SQADAX1.3\SQADAX1.2\SCADAX\obj\x86\Debug\SCADAX.csproj.GenerateResource.Cache
